@@ -100,4 +100,8 @@
 #pragma link C++ class RooBernsteinFast<5>+;
 #pragma link C++ class RooBernsteinFast<6>+;
 #pragma link C++ class RooBernsteinFast<7>+;
+#pragma link C++ class RooBernsteinFast<8>+;
+#pragma link C++ class RooBernsteinFast<9>+;
+#pragma link C++ class RooBernsteinFast<10>+;
+#pragma link C++ class RooBernsteinFast<11>+;
 #endif
